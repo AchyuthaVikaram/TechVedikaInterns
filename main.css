@@ -222,19 +222,19 @@ main{
     box-shadow: 0 0 0 4px var(--shadow);
 }
 .round2{
-   top:170px;
+   top:200px;
 }
 .round3{
-    top:310px;
+    top:400px;
 }
 .round4{
-    top:480px;
+    top:590px;
 }
 .round5{
-    top:645px;
+    top:785px;
 }
 .round6{
-    bottom:100px;
+    bottom:120px;
 }
 
 /*support & team section*/
@@ -526,19 +526,19 @@ main{
     left: -13px;
   }
   .round2{
-    top:480px;
+    top:270px;
   }
   .round3{
-    top: 875px;
+    top: 490px;
   }
   .round4{
-    top: 1270px;
+    top: 710px;
   }
   .round5{
-    top:1650px;
+    top:930px;
   }
   .round6{
-    bottom:330px;
+    bottom:150px;
   }
 
   .name-section input {
